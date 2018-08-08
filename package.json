@@ -45,7 +45,7 @@
     "dat-json": "^1.0.0",
     "dat-link-resolve": "^2.2.0",
     "dat-log": "^1.2.0",
-    "dat-node": "^3.5.11",
+    "dat-node": "3.5.11",
     "dat-registry": "^4.0.0",
     "debug": "^3.0.0",
     "neat-log": "^2.4.0",
