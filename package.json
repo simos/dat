@@ -69,7 +69,7 @@
     "pkg": "^4.3.3",
     "random-access-memory": "^3.0.0",
     "recursive-readdir-sync": "^1.0.6",
-    "request": "^2.81.0",
+    "request": "^2.88.0",
     "standard": "^11.0.1",
     "tape": "^4.6.3",
     "tape-spawn": "^1.4.2",
