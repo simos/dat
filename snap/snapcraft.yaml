@@ -20,7 +20,7 @@ apps:
 
 parts:
   dat:
-    source: https://github.com/datproject/dat.git
+    source: .
     source-tag: 'v13.11.4'
     plugin: nodejs
-    node-engine: 10.9.0
+    node-engine: 10.14.2
